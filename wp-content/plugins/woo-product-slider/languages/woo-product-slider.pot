@@ -1,0 +1,1244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Slider for WooCommerce\n"
+"POT-Creation-Date: 2020-05-14 20:40+0600\n"
+"PO-Revision-Date: 2020-05-14 20:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: ShapedPlugin support@shapedplugin\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/views/metabox.config.php:25
+msgid "Slider Options"
+msgstr ""
+
+#: admin/views/metabox.config.php:37
+msgid "General Settings"
+msgstr ""
+
+#: admin/views/metabox.config.php:44
+msgid "Slider Type"
+msgstr ""
+
+#: admin/views/metabox.config.php:45
+msgid "Select which type of slider you want to show."
+msgstr ""
+
+#: admin/views/metabox.config.php:48
+msgid "Product"
+msgstr ""
+
+#: admin/views/metabox.config.php:51
+msgid "Category"
+msgstr ""
+
+#: admin/views/metabox.config.php:60
+msgid "Layout Preset"
+msgstr ""
+
+#: admin/views/metabox.config.php:61
+msgid "Choose a layout preset."
+msgstr ""
+
+#: admin/views/metabox.config.php:77
+msgid "Select Theme"
+msgstr ""
+
+#: admin/views/metabox.config.php:78
+msgid ""
+"Select which theme style you want to display. Browse themes <a href="
+"\"https://demo.shapedplugin.com/woocommerce-product-slider/\" target="
+"\"_blank\">demo</a> in action!"
+msgstr ""
+
+#: admin/views/metabox.config.php:81
+msgid "Theme One"
+msgstr ""
+
+#: admin/views/metabox.config.php:84
+msgid "Theme Two"
+msgstr ""
+
+#: admin/views/metabox.config.php:87
+msgid "Theme Three"
+msgstr ""
+
+#: admin/views/metabox.config.php:90
+msgid "30+ Themes (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:99
+msgid "Filter Products"
+msgstr ""
+
+#: admin/views/metabox.config.php:100
+msgid "Select an option to filter the products."
+msgstr ""
+
+#: admin/views/metabox.config.php:103
+msgid "Latest"
+msgstr ""
+
+#: admin/views/metabox.config.php:106
+msgid "Featured"
+msgstr ""
+
+#: admin/views/metabox.config.php:109
+msgid "Category (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:113
+msgid "Tag (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:117
+msgid "Best Selling (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:121
+msgid "Related (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:125
+msgid "Upsells (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:129
+msgid "Cross-sells (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:133
+msgid "Top Rated (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:137
+msgid "On Sale (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:141
+msgid "Specific (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:145
+msgid "Most Viewed (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:149
+msgid "Recently Viewed (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:153
+msgid "SKU (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:157
+msgid "Attribute (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:161
+msgid "Free (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:165
+msgid "Exclude Category (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:169
+msgid "Exclude Tag (Pro)"
+msgstr ""
+
+#: admin/views/metabox.config.php:179
+msgid "Column(s)"
+msgstr ""
+
+#: admin/views/metabox.config.php:180
+msgid "Set products column(s) in different devices."
+msgstr ""
+
+#: admin/views/metabox.config.php:191
+msgid "Total Products to Show"
+msgstr ""
+
+#: admin/views/metabox.config.php:192
+msgid "Set number of total products to show."
+msgstr ""
+
+#: admin/views/metabox.config.php:200
+msgid "Order by"
+msgstr ""
+
+#: admin/views/metabox.config.php:201
+msgid "Set a order by option."
+msgstr ""
+
+#: admin/views/metabox.config.php:204
+msgid "ID"
+msgstr ""
+
+#: admin/views/metabox.config.php:207 main.php:291
+msgid "Date"
+msgstr ""
+
+#: admin/views/metabox.config.php:210
+msgid "Random"
+msgstr ""
+
+#: admin/views/metabox.config.php:213
+msgid "Title"
+msgstr ""
+
+#: admin/views/metabox.config.php:216
+msgid "Modified"
+msgstr ""
+
+#: admin/views/metabox.config.php:224
+msgid "Order"
+msgstr ""
+
+#: admin/views/metabox.config.php:225
+msgid "Set product order."
+msgstr ""
+
+#: admin/views/metabox.config.php:228
+msgid "Ascending"
+msgstr ""
+
+#: admin/views/metabox.config.php:231
+msgid "Descending"
+msgstr ""
+
+#: admin/views/metabox.config.php:239
+msgid "Preloader"
+msgstr ""
+
+#: admin/views/metabox.config.php:240
+msgid "On/Off preloader."
+msgstr ""
+
+#: admin/views/metabox.config.php:253
+msgid "Slider Controls"
+msgstr ""
+
+#: admin/views/metabox.config.php:260
+msgid "AutoPlay"
+msgstr ""
+
+#: admin/views/metabox.config.php:261
+msgid "On/Off auto play."
+msgstr ""
+
+#: admin/views/metabox.config.php:267
+msgid "AutoPlay Speed"
+msgstr ""
+
+#: admin/views/metabox.config.php:268
+msgid "Set auto play speed. Default value is 3000 milliseconds."
+msgstr ""
+
+#: admin/views/metabox.config.php:269 admin/views/metabox.config.php:280
+msgid "ms"
+msgstr ""
+
+#: admin/views/metabox.config.php:278
+msgid "Slider Speed"
+msgstr ""
+
+#: admin/views/metabox.config.php:279
+msgid "Set slider scroll speed. Default value is 600 milliseconds."
+msgstr ""
+
+#: admin/views/metabox.config.php:288
+msgid "Pause on Hover"
+msgstr ""
+
+#: admin/views/metabox.config.php:289
+msgid "On/Off pause on hover."
+msgstr ""
+
+#: admin/views/metabox.config.php:295
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/views/metabox.config.php:296
+msgid "On/Off infinite loop mode."
+msgstr ""
+
+#: admin/views/metabox.config.php:302
+msgid "Slider Direction"
+msgstr ""
+
+#: admin/views/metabox.config.php:303
+msgid "Set slider direction as you need."
+msgstr ""
+
+#: admin/views/metabox.config.php:306
+msgid "Right to Left"
+msgstr ""
+
+#: admin/views/metabox.config.php:309
+msgid "Left to Right"
+msgstr ""
+
+#: admin/views/metabox.config.php:316 admin/views/metabox.config.php:321
+msgid "Navigation"
+msgstr ""
+
+#: admin/views/metabox.config.php:322
+msgid "Show/Hide navigation arrow."
+msgstr ""
+
+#: admin/views/metabox.config.php:325 admin/views/metabox.config.php:370
+#: admin/views/metabox.config.php:434 admin/views/metabox.config.php:448
+#: admin/views/metabox.config.php:462 admin/views/metabox.config.php:484
+#: admin/views/metabox.config.php:513 admin/views/metabox.config.php:582
+msgid "Show"
+msgstr ""
+
+#: admin/views/metabox.config.php:328 admin/views/metabox.config.php:373
+#: admin/views/metabox.config.php:435 admin/views/metabox.config.php:449
+#: admin/views/metabox.config.php:463 admin/views/metabox.config.php:485
+#: admin/views/metabox.config.php:514 admin/views/metabox.config.php:583
+msgid "Hide"
+msgstr ""
+
+#: admin/views/metabox.config.php:331 admin/views/metabox.config.php:376
+msgid "Hide on Mobile"
+msgstr ""
+
+#: admin/views/metabox.config.php:339 admin/views/metabox.config.php:342
+#: admin/views/metabox.config.php:492 admin/views/metabox.config.php:521
+#: admin/views/models/fields/border/border.php:124
+msgid "Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:340
+msgid "Set color for the slider navigation."
+msgstr ""
+
+#: admin/views/metabox.config.php:343 admin/views/metabox.config.php:529
+#: admin/views/models/fields/border/border.php:134
+msgid "Hover Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:344 admin/views/metabox.config.php:537
+msgid "Background"
+msgstr ""
+
+#: admin/views/metabox.config.php:345 admin/views/metabox.config.php:545
+msgid "Hover Background"
+msgstr ""
+
+#: admin/views/metabox.config.php:346 admin/views/metabox.config.php:553
+#: admin/views/metabox.config.php:590
+msgid "Border"
+msgstr ""
+
+#: admin/views/metabox.config.php:347
+msgid "Hover Border"
+msgstr ""
+
+#: admin/views/metabox.config.php:361 admin/views/metabox.config.php:366
+msgid "Pagination"
+msgstr ""
+
+#: admin/views/metabox.config.php:367
+msgid "Show/Hide pagination."
+msgstr ""
+
+#: admin/views/metabox.config.php:384
+msgid "Dots Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:385
+msgid "Set color for the slider pagination dots."
+msgstr ""
+
+#: admin/views/metabox.config.php:392
+msgid "Dots Active Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:393
+msgid "Set active color for the slider pagination dots."
+msgstr ""
+
+#: admin/views/metabox.config.php:399
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/views/metabox.config.php:404
+msgid "Swipe"
+msgstr ""
+
+#: admin/views/metabox.config.php:405
+msgid "On/Off swipe mode."
+msgstr ""
+
+#: admin/views/metabox.config.php:411
+msgid "Mouse Draggable"
+msgstr ""
+
+#: admin/views/metabox.config.php:412
+msgid "On/Off mouse draggable mode."
+msgstr ""
+
+#: admin/views/metabox.config.php:426
+msgid "Display Options"
+msgstr ""
+
+#: admin/views/metabox.config.php:432
+msgid "Slider Section Title"
+msgstr ""
+
+#: admin/views/metabox.config.php:433
+msgid "Show/Hide slider section title."
+msgstr ""
+
+#: admin/views/metabox.config.php:441
+msgid "Product Name"
+msgstr ""
+
+#: admin/views/metabox.config.php:446
+msgid "Name"
+msgstr ""
+
+#: admin/views/metabox.config.php:447
+msgid "Show/Hide product name."
+msgstr ""
+
+#: admin/views/metabox.config.php:455
+msgid "Product Price"
+msgstr ""
+
+#: admin/views/metabox.config.php:460
+msgid "Price"
+msgstr ""
+
+#: admin/views/metabox.config.php:461
+msgid "Show/Hide product price."
+msgstr ""
+
+#: admin/views/metabox.config.php:470
+msgid "Discount Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:471
+msgid "Set discount price color."
+msgstr ""
+
+#: admin/views/metabox.config.php:477
+msgid "Product Rating"
+msgstr ""
+
+#: admin/views/metabox.config.php:482
+msgid "Rating"
+msgstr ""
+
+#: admin/views/metabox.config.php:483
+msgid "Show/Hide product rating."
+msgstr ""
+
+#: admin/views/metabox.config.php:493
+msgid "Set rating star color."
+msgstr ""
+
+#: admin/views/metabox.config.php:495
+msgid "Star Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:496
+msgid "Empty Star Color"
+msgstr ""
+
+#: admin/views/metabox.config.php:506 admin/views/metabox.config.php:511
+msgid "Add to Cart Button"
+msgstr ""
+
+#: admin/views/metabox.config.php:512
+msgid "Show/Hide product add to cart button."
+msgstr ""
+
+#: admin/views/metabox.config.php:522
+msgid "Set product add to cart button color."
+msgstr ""
+
+#: admin/views/metabox.config.php:530
+msgid "Set add to cart button hover color."
+msgstr ""
+
+#: admin/views/metabox.config.php:538
+msgid "Set add to cart button background color."
+msgstr ""
+
+#: admin/views/metabox.config.php:546
+msgid "Set add to cart button hover background color."
+msgstr ""
+
+#: admin/views/metabox.config.php:554
+msgid "Set add to cart button border."
+msgstr ""
+
+#: admin/views/metabox.config.php:574
+msgid "Image Settings"
+msgstr ""
+
+#: admin/views/metabox.config.php:580
+msgid "Image"
+msgstr ""
+
+#: admin/views/metabox.config.php:581
+msgid "Show/Hide product image."
+msgstr ""
+
+#: admin/views/metabox.config.php:591
+msgid "Set product image border."
+msgstr ""
+
+#: admin/views/metabox.config.php:605
+msgid "Image Sizes"
+msgstr ""
+
+#: admin/views/metabox.config.php:606
+msgid "Select a image size."
+msgstr ""
+
+#: admin/views/metabox.config.php:617
+msgid "Custom Size"
+msgstr ""
+
+#: admin/views/metabox.config.php:618
+msgid "Set a custom width and height of the product image."
+msgstr ""
+
+#: admin/views/metabox.config.php:642
+msgid "Typography"
+msgstr ""
+
+#: admin/views/metabox.config.php:648
+msgid ""
+"The Following Typography (900+ Google Fonts) options are available in the <a "
+"href=\"https://shapedplugin.com/plugin/woocommerce-product-slider-pro/?ref=1\">Pro "
+"Version</a> only except the <b>Slider Section Title, Product Name, Product "
+"Price</b> Font size and color fields."
+msgstr ""
+
+#: admin/views/metabox.config.php:653
+msgid "Slider Section Title Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:654
+msgid "Set slider section title font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:671
+msgid "Product Name Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:672
+msgid "Set product name font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:691
+msgid "Product Description Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:692
+msgid "Set product description font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:709
+msgid "Product Price Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:710
+msgid "Set product price font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:727
+msgid "Sale Ribbon Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:728
+msgid "Set product sale ribbon font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:745
+msgid "Out of Stock Ribbon Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:746
+msgid "Set product out of stock ribbon font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:763
+msgid "Product Category Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:764
+msgid "Set product category font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:783
+msgid "Compare & Wishlist Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:784
+msgid "Set compare and wishlist font properties."
+msgstr ""
+
+#: admin/views/metabox.config.php:801
+msgid "Add to Cart & View Details Font"
+msgstr ""
+
+#: admin/views/metabox.config.php:802
+msgid "Set add to cart and view details font properties."
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:211 main.php:289
+msgid "Shortcode"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:212
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:218
+msgid "Template Include"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:220
+msgid "Paste the PHP code into your template file:"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:229
+msgid "Post or Page editor"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:231
+msgid "Insert it into an existing post or page with the icon:"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:294
+#: admin/views/models/classes/options.class.php:648
+msgid "No option provided by developer."
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:312
+msgid "Restore"
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:313
+msgid "update post for restore "
+msgstr ""
+
+#: admin/views/models/classes/metabox.class.php:313
+msgid "Cancel"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:228
+msgid "Error while saving."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:287
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:297
+msgid "Default options restored."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:310
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:368
+msgid "Settings saved."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:541
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:543
+msgid "show all options"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:545
+msgid "Search option(s)"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:548
+msgid "Save"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:548
+msgid "Saving..."
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:549
+msgid "Reset Section"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:549
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:550
+#: admin/views/models/fields/backup/backup.php:34
+msgid "Reset All"
+msgstr ""
+
+#: admin/views/models/classes/options.class.php:550
+msgid "Are you sure to reset all options?"
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:259
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:260
+msgid "Restoring options."
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:261
+msgid "Importing options."
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:264
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:265
+msgid "Searching..."
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:266
+msgid "No results match"
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:338
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:408
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/views/models/classes/setup.class.php:411
+msgid "This type is not found!"
+msgstr ""
+
+#: admin/views/models/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: admin/views/models/fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: admin/views/models/fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr ""
+
+#: admin/views/models/fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:25
+#: admin/views/models/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:26
+#: admin/views/models/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:27
+#: admin/views/models/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:28
+#: admin/views/models/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:29
+#: admin/views/models/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:53
+#: admin/views/models/fields/typography/typography.php:217
+msgid "Solid"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:54
+#: admin/views/models/fields/typography/typography.php:220
+msgid "Dashed"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:55
+#: admin/views/models/fields/typography/typography.php:219
+msgid "Dotted"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:56
+#: admin/views/models/fields/typography/typography.php:218
+msgid "Double"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:57
+msgid "Inset"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:58
+msgid "Outset"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:59
+msgid "Groove"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:60
+msgid "Ridge"
+msgstr ""
+
+#: admin/views/models/fields/border/border.php:61
+#: admin/views/models/fields/typography/typography.php:200
+#: admin/views/models/fields/typography/typography.php:216
+msgid "None"
+msgstr ""
+
+#: admin/views/models/fields/button_set/button_set.php:59
+#: admin/views/models/fields/checkbox/checkbox.php:63
+#: admin/views/models/fields/radio/radio.php:62
+#: admin/views/models/fields/select/select.php:115
+msgid "No data provided for this option type."
+msgstr ""
+
+#: admin/views/models/fields/dimensions/dimensions.php:23
+msgid "width"
+msgstr ""
+
+#: admin/views/models/fields/dimensions/dimensions.php:24
+msgid "height"
+msgstr ""
+
+#: admin/views/models/fields/image_sizes/image_sizes.php:56
+msgid "Original uploaded image"
+msgstr ""
+
+#: admin/views/models/fields/image_sizes/image_sizes.php:57
+msgid "Set custom size"
+msgstr ""
+
+#: admin/views/models/fields/image_sizes/image_sizes.php:103
+msgid "No image sizes found."
+msgstr ""
+
+#: admin/views/models/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: admin/views/models/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:89
+msgid "Font Family"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:90
+msgid "Select a font"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:126
+msgid "Font Style"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:128
+#: admin/views/models/fields/typography/typography.php:141
+#: admin/views/models/fields/typography/typography.php:156
+#: admin/views/models/fields/typography/typography.php:173
+#: admin/views/models/fields/typography/typography.php:188
+#: admin/views/models/fields/typography/typography.php:204
+#: admin/views/models/fields/typography/typography.php:224
+msgid "Default"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:140
+#: admin/views/models/fields/typography/typography.php:141
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:154
+msgid "Subset"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:164
+msgid "Text Align"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:167
+msgid "Inherit"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:168
+msgid "Left"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:169
+msgid "Center"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:170
+msgid "Right"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:171
+msgid "Justify"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:172
+msgid "Initial"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:182
+msgid "Font Variant"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:185
+msgid "Normal"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:186
+msgid "Small Caps"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:187
+msgid "All Small Caps"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:201
+msgid "Capitalize"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:202
+msgid "Uppercase"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:203
+msgid "Lowercase"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:213
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:221
+msgid "Wavy"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:222
+msgid "Overline"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:223
+msgid "Line-through"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:237
+msgid "Font Size"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:249
+msgid "Line Height"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:261
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:288
+msgid "Font Color"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:300
+msgid "Hover Font Color"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:311
+msgid "Custom Style"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:378
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: admin/views/models/fields/typography/typography.php:384
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/views/models/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: admin/views/models/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: admin/views/models/functions/actions.php:16
+#: admin/views/models/functions/actions.php:65
+#: admin/views/models/functions/actions.php:102
+#: admin/views/models/functions/actions.php:136
+#: admin/views/models/functions/actions.php:164
+msgid "Error: Nonce verification has failed. Please try again."
+msgstr ""
+
+#: admin/views/models/functions/actions.php:39
+msgid "No data provided by developer"
+msgstr ""
+
+#: admin/views/models/functions/actions.php:69
+#: admin/views/models/functions/actions.php:106
+msgid "Error: Options unique id could not valid."
+msgstr ""
+
+#: admin/views/models/functions/actions.php:110
+msgid "Error: Import data could not valid."
+msgstr ""
+
+#: admin/views/models/functions/actions.php:168
+msgid "Error: Missing request arguments."
+msgstr ""
+
+#: admin/views/models/functions/actions.php:174
+msgid "You do not have required permissions to access."
+msgstr ""
+
+#: admin/views/models/functions/actions.php:202
+msgid "Add Icon"
+msgstr ""
+
+#: admin/views/models/functions/actions.php:206
+msgid "Search a Icon..."
+msgstr ""
+
+#: admin/views/models/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/views/models/functions/validate.php:31
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/views/models/functions/validate.php:48
+msgid "Error! This field is required!"
+msgstr ""
+
+#: admin/views/models/functions/validate.php:65
+msgid "Please write a valid url!"
+msgstr ""
+
+#: admin/views/settings.config.php:25
+msgid "Settings"
+msgstr ""
+
+#: admin/views/settings.config.php:33 class/shortcodes.php:61
+msgid "Product Slider for WooCommerce"
+msgstr ""
+
+#: admin/views/settings.config.php:43
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/views/settings.config.php:49
+msgid "Enqueue/Dequeue CSS"
+msgstr ""
+
+#: admin/views/settings.config.php:54
+msgid "FontAwesome CSS"
+msgstr ""
+
+#: admin/views/settings.config.php:55
+msgid "Enqueue/Dequeue FontAwesome for front-end."
+msgstr ""
+
+#: admin/views/settings.config.php:56 admin/views/settings.config.php:66
+#: admin/views/settings.config.php:80
+msgid "Enqueue"
+msgstr ""
+
+#: admin/views/settings.config.php:57 admin/views/settings.config.php:67
+#: admin/views/settings.config.php:81
+msgid "Dequeue"
+msgstr ""
+
+#: admin/views/settings.config.php:64
+msgid "Slick CSS"
+msgstr ""
+
+#: admin/views/settings.config.php:65
+msgid "Enqueue/Dequeue Slick CSS."
+msgstr ""
+
+#: admin/views/settings.config.php:73
+msgid "Enqueue/Dequeue JS"
+msgstr ""
+
+#: admin/views/settings.config.php:78
+msgid "Slick JS"
+msgstr ""
+
+#: admin/views/settings.config.php:79
+msgid "Enqueue/Dequeue Slick JS."
+msgstr ""
+
+#: admin/views/settings.config.php:96 admin/views/settings.config.php:103
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/views/settings.config.php:104
+msgid "Type your css."
+msgstr ""
+
+#: class/shortcodes.php:43 class/shortcodes.php:46
+msgid "All Sliders"
+msgstr ""
+
+#: class/shortcodes.php:44 class/shortcodes.php:45 class/shortcodes.php:51
+msgid "Product Slider"
+msgstr ""
+
+#: class/shortcodes.php:47
+msgid "Add New"
+msgstr ""
+
+#: class/shortcodes.php:48
+msgid "Add New Slider"
+msgstr ""
+
+#: class/shortcodes.php:49
+msgid "Edit"
+msgstr ""
+
+#: class/shortcodes.php:50
+msgid "Edit Slider"
+msgstr ""
+
+#: class/shortcodes.php:52
+msgid "Search Product Sliders"
+msgstr ""
+
+#: class/shortcodes.php:53
+msgid "No Product Sliders found"
+msgstr ""
+
+#: class/shortcodes.php:54
+msgid "No Product Sliders in Trash"
+msgstr ""
+
+#: class/shortcodes.php:55
+msgid "Parent Product Slider"
+msgstr ""
+
+#: class/wqv.php:65
+msgid "Plugin <strong>activated.</strong>"
+msgstr ""
+
+#: includes/class-woo-product-slider-premium.php:58
+msgid "Premium"
+msgstr ""
+
+#: includes/class-woo-product-slider-premium.php:73
+msgid "Upgrade to <span>Product Slider Pro for WooCommerce</span>"
+msgstr ""
+
+#: includes/class-woo-product-slider-premium.php:77
+msgid "Get more Advanced Functionality & Flexibility with the Premium version."
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Product Slider for WooCommerce Help"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Help"
+msgstr ""
+
+#: includes/functions.php:63
+msgid "Welcome to Product Slider for WooCommerce!"
+msgstr ""
+
+#: includes/functions.php:64
+msgid ""
+"Thank you for installing Product Slider for WooCommerce! You're now running "
+"the most popular WooCommerce Product Slider plugin. This video will help you "
+"get started with the plugin."
+msgstr ""
+
+#: includes/functions.php:120
+#, php-format
+msgid ""
+"If you like <strong>Product Slider for WooCommerce</strong> please leave us "
+"a <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> "
+"rating. Your Review is very important to us as it helps us to grow more. "
+msgstr ""
+
+#: main.php:200
+msgid "Create Slider"
+msgstr ""
+
+#: main.php:223
+msgid "Live Demo"
+msgstr ""
+
+#: main.php:288
+msgid "Slider Title"
+msgstr ""
+
+#: main.php:330
+msgid ""
+"Please install and activate <strong>WooCommerce</strong> plugin to make the "
+"<strong>Product Slider for WooCommerce</strong> work."
+msgstr ""
+
+#: main.php:381
+msgid "Please "
+msgstr ""
+
+#: public/views/shortcode-deprecated.php:150
+#: public/views/shortcoderender.php:243
+msgid "Rated"
+msgstr ""
+
+#: public/views/shortcode-deprecated.php:150
+#: public/views/shortcoderender.php:243
+msgid " out of 5"
+msgstr ""
+
+#: public/views/shortcode-deprecated.php:150
+#: public/views/shortcoderender.php:243
+msgid "out of 5"
+msgstr ""
+
+#: public/views/shortcode-deprecated.php:159
+#: public/views/shortcoderender.php:257
+msgid "No products found"
+msgstr ""

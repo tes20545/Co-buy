@@ -1,0 +1,12 @@
+{
+  "title": "Column",
+  "name": "essential-blocks/column",
+  "category": "essential-blocks",
+  "apiVersion": 2,
+  "textdomain": "essential-blocks",
+  "supports": {
+    "inserter": false,
+    "reusable": false,
+    "html": false
+  }
+}

@@ -1,0 +1,491 @@
+/**
+ *
+ * ---------------------------------------------------------
+ * SHAPEDPLUGIN FRAMEWORK RTL CSS MAP
+ * ---------------------------------------------------------
+ *
+ * 01. Base
+ *     01. 01. Header
+ *     01. 02. Header Buttons
+ *     01. 03. Navigation
+ *     01. 04. Content
+ *     01. 05. Section
+ *     01. 06. Show All Options
+ *     01. 07. Search Input
+ *     01. 08. Copyright
+ *     01. 09. Metabox
+ * 02. Fields
+ *     02. 02. Field: checkbox, radio
+ *     02. 03. Field: switcher
+ *     02. 04. Field: upload
+ *     02. 05. Field: group
+ *     02. 06. Field: repeater
+ *     02. 07. Field: help
+ *     02. 09. Field: gallery
+ *     02. 10. Field: sorter
+ *     02. 11. Field: tabbed
+ *     02. 13. Field: notice
+ *     02. 14. Field: border, spacing, dimensions
+ *     02. 15. Field: background
+ *     02. 16. Field: spinner
+ *     02. 17. Field: slider
+ *     02. 18. Field: button_set
+ *     02. 19. Field: link_color
+ *     02. 20. Field: color_group
+ *     02. 21. Field: palette
+ * 03. Taxonomy
+ * 04. Profile
+ * 05. Modal
+ * 06. Customizer
+ * 07. Responsive
+ * 08. Others
+ *
+ * ---------------------------------------------------------
+ *
+ */
+/**
+ * 01. Base
+ */
+.wcgs {
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+/**
+ * 01. 01. Header
+ */
+.wcgs-header h1 {
+  float: right;
+}
+.wcgs-header fieldset {
+  float: left;
+}
+
+/**
+ * 01. 02. Header Buttons
+ */
+.wcgs-buttons {
+  float: left;
+  direction: ltr;
+}
+
+.wcgs-header-left {
+  float: right;
+}
+
+.wcgs-header-right {
+  float: left;
+}
+
+/**
+ * 01. 03. Navigation
+ */
+.wcgs-nav {
+  float: right;
+}
+.wcgs-nav ul {
+  clear: right;
+}
+.wcgs-nav ul li .wcgs-section-active:after {
+  right: auto;
+  left: 0;
+  border-left-color: #fff;
+  border-right-color: transparent;
+}
+.wcgs-nav ul li .wcgs-arrow:after {
+  content: "\f053";
+  right: auto;
+  left: 10px;
+}
+.wcgs-nav ul li.wcgs-tab-active .wcgs-arrow:after {
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+.wcgs-nav ul ul li a {
+  padding-right: 25px;
+  padding-left: 15px;
+}
+.wcgs-nav ul ul:before {
+  left: auto;
+  right: 15px;
+}
+.wcgs-nav .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.wcgs-nav-background {
+  left: auto;
+  right: 0;
+}
+
+/**
+ * 01. 04. Content
+ */
+.wcgs-content {
+  margin-left: 0;
+  margin-right: 225px;
+}
+
+/**
+ * 01. 05. Section
+ */
+.wcgs-sections {
+  float: right;
+}
+
+/**
+ * 01. 06. Show all options
+ */
+.wcgs-show-all .wcgs-content {
+  margin-right: 0;
+  overflow: hidden;
+}
+
+.wcgs-expand-all {
+  float: right;
+  right: auto;
+  left: 40px;
+  margin-right: 0;
+  margin-left: 4px;
+}
+
+/**
+ * 01. 07. Search Input
+ */
+.wcgs-search {
+  float: right;
+}
+.wcgs-search input {
+  margin: 0 0 0 5px;
+}
+
+/**
+ * 01. 08. Copyright
+ */
+.wcgs-copyright {
+  float: right;
+}
+
+/**
+ * 01. 09. Metabox
+ */
+.wcgs-metabox {
+  margin: -6px -12px -12px -12px;
+}
+.wcgs-metabox .wcgs-section-title {
+  padding: 20px;
+}
+.wcgs-metabox .wcgs-section-title .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.wcgs-section-title .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+/**
+ * 02. Fields
+ */
+.wcgs-field .wcgs-title {
+  float: right;
+}
+.wcgs-field .wcgs-fieldset {
+  margin-left: 0;
+  margin-right: 30%;
+}
+
+.wcgs-pseudo-field {
+  padding: 0 0 0 5px !important;
+}
+
+/**
+ * 02. 02. Field: checkbox, radio
+ */
+.wcgs-field-checkbox .wcgs--inline-list li,
+.wcgs-field-radio .wcgs--inline-list li {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+/**
+ * 02. 03. Field: switcher
+ */
+.wcgs-field-switcher .wcgs--switcher {
+  float: right;
+}
+.wcgs-field-switcher .wcgs--label {
+  float: right;
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 04. Field: upload
+ */
+.wcgs-field-upload .wcgs--remove,
+.wcgs-field-upload .wcgs--buttons {
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 05. Field: group
+ */
+.wcgs-field-group .wcgs-cloneable-title {
+  padding: 15px 10px 15px 65px;
+}
+.wcgs-field-group .wcgs-cloneable-helper {
+  right: auto;
+  left: 10px;
+}
+
+/**
+ * 02. 06. Field: repeater
+ */
+.wcgs-field-repeater .wcgs-repeater-helper {
+  border-left: 0;
+  border-right: 1px solid #eee;
+}
+
+/**
+ * 02. 07. Field: help
+ */
+.wcgs-help {
+  right: auto;
+  left: 5px;
+}
+
+/**
+ * 02. 09. Field: gallery
+ */
+.wcgs-field-gallery ul li {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.wcgs-field-gallery .button {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 11. Field: tabbed
+ */
+.wcgs-field-tabbed .wcgs-tabbed-nav .fa {
+  padding-right: 0;
+  padding-left: 5px;
+}
+.wcgs-field-tabbed .wcgs-tabbed-nav a {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 12. Field: media
+ */
+.wcgs-field-media .button {
+  margin-left: 0;
+  margin-right: 7px;
+}
+.wcgs-field-media .hidden + .button {
+  margin-right: 0;
+}
+
+/**
+ * 02. 13. Field: notice
+ */
+.wcgs-notice {
+  border-left: none;
+  border-right-style: solid;
+  border-right-width: 4px;
+}
+
+/**
+ * 02. 14. Field: border, spacing, dimensions
+ */
+.wcgs-field-dimensions .wcgs--input,
+.wcgs-field-spacing .wcgs--input,
+.wcgs-field-border .wcgs--input {
+  float: right;
+  margin-right: 0;
+  margin-left: 15px;
+}
+.wcgs-field-dimensions .wcgs--left,
+.wcgs-field-spacing .wcgs--left,
+.wcgs-field-border .wcgs--left {
+  float: right;
+}
+
+/**
+ * 02. 15. Field: background
+ */
+.wcgs-field-background .wcgs--block {
+  float: right;
+}
+.wcgs-field-background .wcgs--select,
+.wcgs-field-background .wcgs--media {
+  padding-right: 0;
+}
+.wcgs-field-background .wcgs--title {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/**
+ * 02. 16. Field: spinner
+ */
+.wcgs-field-spinner .wcgs--spin {
+  float: right;
+}
+
+/**
+ * 02. 17. Field: slider
+ */
+.wcgs-field-slider .ui-slider {
+  direction: ltr;
+}
+.wcgs-field-slider input[type="text"] {
+  margin-left: 0;
+  margin-right: 15px;
+}
+.wcgs-field-slider em {
+  padding-left: 0;
+  padding-right: 5px;
+}
+
+/**
+ * 02. 18. Field: button_set
+ */
+.wcgs-field-button_set .wcgs--button-group {
+  float: right;
+}
+
+/**
+ * 02. 19. Field: link_color
+ */
+.wcgs-field-link_color .wcgs--left {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 20. Field: color_group
+ */
+.wcgs-field-color_group .wcgs--left {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 21. Field: palette
+ */
+.wcgs-field-palette .wcgs--palette {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 03. Taxonomy
+ */
+.wcgs-taxonomy-add-fields .wcgs-fieldset {
+  margin-right: 0;
+}
+.wcgs-taxonomy-add-fields .wcgs-field > .wcgs-fieldset > .wcgs-help {
+  left: -5px;
+  right: auto;
+}
+
+.wcgs-taxonomy-edit-fields .wcgs-fieldset {
+  margin-left: 0;
+  margin-right: 225px;
+}
+.wcgs-taxonomy-edit-fields .wcgs-field > .wcgs-fieldset > .wcgs-help {
+  right: auto;
+  left: -5px;
+}
+
+/**
+ * 04. Profile
+ */
+.wcgs-profile > h2 > .fa {
+  padding-right: 0;
+  padding-left: 7px;
+}
+.wcgs-profile > .wcgs-field > .wcgs-fieldset {
+  margin-left: 0;
+  margin-right: 220px;
+}
+.wcgs-profile > .wcgs-field > .wcgs-help {
+  left: 0;
+  right: auto;
+}
+
+.wcgs-taxonomy-edit-fields .wcgs-fieldset {
+  margin-left: 0;
+  margin-right: 225px;
+}
+.wcgs-taxonomy-edit-fields .wcgs-field > .wcgs-fieldset > .wcgs-help {
+  right: auto;
+  left: -5px;
+}
+
+/**
+ * 05. Modal
+ */
+.wcgs-modal-content .wcgs-field {
+  padding: 15px 15px 15px 30px;
+}
+
+.wcgs-modal-title {
+  padding: 0 16px 0 36px;
+}
+
+.wcgs-modal-close {
+  right: auto;
+  left: 0;
+}
+
+/**
+ * 06. Customizer
+ */
+.control-section .wcgs-field .wcgs-fieldset {
+  margin-right: 0;
+}
+
+/**
+ * 07. Responsive
+ */
+@media only screen and (max-width: 1200px) {
+  .wcgs-metabox .wcgs-field .wcgs-fieldset {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 782px) {
+  .wcgs .wcgs-fieldset,
+  .wcgs .wcgs-content {
+    margin-right: 0;
+  }
+}
+/**
+ * 08. Others
+ */
+.wcgs-field .wcgs--transparent-slider {
+  margin-left: 0;
+  margin-right: 2px;
+}
+.wcgs-field .wcgs--transparent-slider .ui-slider-handle {
+  margin: 0 -11px;
+}
+.wcgs-field .wcgs--transparent-offset {
+  background-position: center right;
+}
+.wcgs-field .wcgs--transparent-text {
+  right: auto;
+  left: 10px;
+}

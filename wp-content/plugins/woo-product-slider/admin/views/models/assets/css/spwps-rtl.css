@@ -1,0 +1,365 @@
+/**
+ *
+ * ---------------------------------------------------------
+ * RTL CSS MAP
+ * ---------------------------------------------------------
+ *
+ * 01. Base
+ *     01. 01. Header
+ *     01. 02. Header Buttons
+ *     01. 03. Navigation
+ *     01. 04. Content
+ *     01. 05. Section
+ *     01. 06. Show All Options
+ *     01. 07. Search Input
+ *     01. 08. Copyright
+ *     01. 09. Metabox
+ * 02. Fields
+ *     02. 01. Field: typography
+ *     02. 02. Field: checkbox, radio
+ *     02. 03. Field: switcher
+ *     02. 04. Field: upload
+ *     02. 07. Field: help
+ *     02. 13. Field: notice
+ *     02. 14. Field: border, spacing, dimensions
+ *     02. 16. Field: spinner
+ *     02. 18. Field: button_set
+ *     02. 20. Field: color_group
+ *     02. 25. Field: sortable
+ *     02. 26. Field: number
+ * 05. Modal
+ * 07. Responsive
+ * 08. Others
+ *
+ * ---------------------------------------------------------
+ *
+ */
+/**
+ * 01. Base
+ */
+.spwps {
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+/**
+ * 01. 01. Header
+ */
+.spwps-header h1 {
+  float: right;
+}
+.spwps-header fieldset {
+  float: left;
+}
+
+/**
+ * 01. 02. Header Buttons
+ */
+.spwps-buttons {
+  float: left;
+  direction: ltr;
+}
+
+.spwps-header-left {
+  float: right;
+}
+
+.spwps-header-right {
+  float: left;
+}
+
+/**
+ * 01. 03. Navigation
+ */
+.spwps-nav {
+  float: right;
+}
+.spwps-nav ul {
+  clear: right;
+}
+.spwps-nav ul li .spwps-section-active:after {
+  right: auto;
+  left: 0;
+  border-left-color: #fff;
+  border-right-color: transparent;
+}
+.spwps-nav ul li .spwps-arrow:after {
+  content: "\f053";
+  right: auto;
+  left: 10px;
+}
+.spwps-nav ul li.spwps-tab-active .spwps-arrow:after {
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+}
+.spwps-nav ul ul li a {
+  padding-right: 25px;
+  padding-left: 15px;
+}
+.spwps-nav ul ul:before {
+  left: auto;
+  right: 15px;
+}
+.spwps-nav .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.spwps-nav-background {
+  left: auto;
+  right: 0;
+}
+
+/**
+ * 01. 04. Content
+ */
+.spwps-content {
+  margin-left: 0;
+  margin-right: 225px;
+}
+
+/**
+ * 01. 05. Section
+ */
+.spwps-sections {
+  float: right;
+}
+
+/**
+ * 01. 06. Show all options
+ */
+.spwps-show-all .spwps-content {
+  margin-right: 0;
+  overflow: hidden;
+}
+
+.spwps-expand-all {
+  float: right;
+  right: auto;
+  left: 40px;
+  margin-right: 0;
+  margin-left: 4px;
+}
+
+/**
+ * 01. 07. Search Input
+ */
+.spwps-search {
+  float: right;
+}
+.spwps-search input {
+  margin: 0 0 0 5px;
+}
+
+/**
+ * 01. 08. Copyright
+ */
+.spwps-copyright {
+  float: right;
+}
+
+/**
+ * 01. 09. Metabox
+ */
+.spwps-metabox {
+  margin: -6px -12px -12px -12px;
+}
+.spwps-metabox .spwps-section-title {
+  padding: 20px;
+}
+.spwps-metabox .spwps-section-title .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.spwps-section-title .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+/**
+ * 02. Fields
+ */
+.spwps-field .spwps-title {
+  float: right;
+}
+.spwps-field .spwps-fieldset {
+  float: left;
+}
+
+.spwps-pseudo-field {
+  padding: 0 0 0 5px !important;
+}
+
+/**
+ * 02. 01. Field: typography
+ */
+.spwps-field-typography select {
+  margin: 0;
+  width: 100%;
+}
+.spwps-field-typography .spwps--blocks-inputs .spwps--blocks {
+  flex-direction: row-reverse;
+}
+
+/**
+ * 02. 02. Field: checkbox, radio
+ */
+.spwps-field-checkbox .spwps--inline-list li,
+.spwps-field-radio .spwps--inline-list li {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+/**
+ * 02. 03. Field: switcher
+ */
+.spwps-field-switcher .spwps--switcher {
+  float: right;
+}
+.spwps-field-switcher .spwps--label {
+  float: right;
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 04. Field: upload
+ */
+.spwps-field-upload .spwps--remove,
+.spwps-field-upload .spwps--button {
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+/**
+ * 02. 07. Field: help
+ */
+.spwps-help {
+  right: auto;
+  left: 5px;
+}
+
+/**
+ * 02. 13. Field: notice
+ */
+.spwps-notice {
+  border-left: none;
+  border-right-style: solid;
+  border-right-width: 4px;
+}
+
+/**
+ * 02. 14. Field: border, spacing, dimensions
+ */
+.spwps-field-dimensions .spwps--input,
+.spwps-field-dimensions .spwps-fieldset,
+.spwps-field-spacing .spwps--input,
+.spwps-field-spacing .spwps-fieldset,
+.spwps-field-border .spwps--input,
+.spwps-field-border .spwps-fieldset {
+  direction: ltr;
+}
+.spwps-field-dimensions .spwps--inputs,
+.spwps-field-dimensions .spwps--color,
+.spwps-field-spacing .spwps--inputs,
+.spwps-field-spacing .spwps--color,
+.spwps-field-border .spwps--inputs,
+.spwps-field-border .spwps--color {
+  float: right;
+}
+.spwps-field-dimensions .spwps--color,
+.spwps-field-spacing .spwps--color,
+.spwps-field-border .spwps--color {
+  margin-right: 4px;
+  direction: rtl;
+}
+
+/**
+ * 02. 16. Field: spinner
+ */
+.spwps-field-spinner .spwps--spin {
+  float: right;
+  direction: ltr;
+}
+
+/**
+ * 02. 18. Field: button_set
+ */
+.spwps-field-button_set .spwps--button-group {
+  float: right;
+}
+
+/**
+ * 02. 20. Field: color_group
+ */
+.spwps-field-color_group .spwps--left {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+/**
+ * 02. 25. Field: sortable
+ */
+.spwps-field-sortable .spwps--sortable-helper {
+  border-left: none;
+  border-right: 1px solid #eee;
+}
+
+/**
+ * 02. 26. Field: number
+ */
+.spwps-field-number .spwps--wrap {
+  float: right;
+}
+
+/**
+ * 05. Modal
+ */
+.spwps-modal-content .spwps-field {
+  padding: 15px 15px 15px 30px;
+}
+
+.spwps-modal-title {
+  padding: 0 16px 0 36px;
+}
+
+.spwps-modal-close {
+  right: auto;
+  left: 0;
+}
+
+/**
+ * 07. Responsive
+ */
+@media only screen and (max-width: 1200px) {
+  .spwps-metabox .spwps-field .spwps-fieldset {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 782px) {
+  .spwps .spwps-fieldset,
+  .spwps .spwps-content {
+    margin-right: 0;
+  }
+}
+/**
+ * 08. Others
+ */
+.spwps-field .spwps--transparent-slider {
+  margin-left: 0;
+  margin-right: 2px;
+}
+.spwps-field .spwps--transparent-slider .ui-slider-handle {
+  margin: 0 -11px;
+}
+.spwps-field .spwps--transparent-offset {
+  background-position: center right;
+}
+.spwps-field .spwps--transparent-text {
+  right: auto;
+  left: 10px;
+}

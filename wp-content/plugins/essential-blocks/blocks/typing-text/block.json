@@ -1,0 +1,8 @@
+{
+  "title": "Typing Text",
+  "name": "essential-blocks/typing-text",
+  "description": "Make your website interactive with typing text animation.",
+  "category": "essential-blocks",
+  "apiVersion": 2,
+  "textdomain": "essential-blocks"
+}

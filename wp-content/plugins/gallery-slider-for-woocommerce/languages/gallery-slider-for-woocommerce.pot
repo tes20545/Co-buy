@@ -1,0 +1,956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery Slider for WooCommerce 1.1.3\n"
+"POT-Creation-Date: 2022-02-02 14:12+0600\n"
+"PO-Revision-Date: 2022-02-02 14:14+0600\n"
+"Last-Translator: \n"
+"Language-Team: ShapedPlugin <support@shapedplugin.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: index.php\n"
+"X-Poedit-SearchPath-3: languages\n"
+"X-Poedit-SearchPath-4: public\n"
+"X-Poedit-SearchPath-5: README.txt\n"
+"X-Poedit-SearchPath-6: uninstall.php\n"
+"X-Poedit-SearchPath-7: woo-gallery-slider.php\n"
+
+#: admin/class-woo-gallery-slider-admin.php:102
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: admin/class-woo-gallery-slider-admin.php:144
+msgid "Remove all"
+msgstr ""
+
+#: admin/class-woo-gallery-slider-admin.php:151
+msgid "Add Gallery Images"
+msgstr ""
+
+#: admin/class-woo-gallery-slider-admin.php:158
+msgid "Add more"
+msgstr ""
+
+#: admin/class-woo-gallery-slider-admin.php:166
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/partials/class-wcgs-settings.php:29
+msgid "WooGallery Slider"
+msgstr ""
+
+#: admin/partials/class-wcgs-settings.php:39
+msgid ""
+"If you like <strong>Gallery Slider for WooCommerce</strong>, please leave us "
+"a <a href=\"https://wordpress.org/support/plugin/gallery-slider-for-"
+"woocommerce/reviews/?filter=5#new-post\" target=\"_blank\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> rating. Your Review is very important to us as it "
+"helps us to grow more."
+msgstr ""
+
+#: admin/partials/class-wcgs-settings.php:41
+msgid ""
+"Please upgrade to the Pro version  to unlock all these amazing features."
+msgstr ""
+
+#: admin/partials/class-wcgs-settings.php:41
+msgid "Get the Pro version"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-advance.php:60
+msgid "Advanced"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-advance.php:65
+msgid "Clean-up Data on Deletion"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-advance.php:66
+msgid ""
+"Check this box if you would like Gallery Slider for WooCommerce plugin to "
+"completely remove all of its data when the plugin is deleted."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-advance.php:72
+msgid "Additional CSS"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:27
+msgid "Gallery"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:33
+msgid "AutoPlay"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:34
+msgid "Enable/Disable gallery autoplay."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:35
+#: admin/partials/sections/class-wcgs-gallery.php:68
+#: admin/partials/sections/class-wcgs-gallery.php:89
+#: admin/partials/sections/class-wcgs-gallery.php:99
+#: admin/partials/sections/class-wcgs-gallery.php:109
+#: admin/partials/sections/class-wcgs-gallery.php:353
+#: admin/partials/sections/class-wcgs-gallery.php:378
+#: admin/partials/sections/class-wcgs-gallery.php:410
+#: admin/partials/sections/class-wcgs-lightbox.php:34
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:36
+#: admin/partials/sections/class-wcgs-gallery.php:69
+#: admin/partials/sections/class-wcgs-gallery.php:90
+#: admin/partials/sections/class-wcgs-gallery.php:100
+#: admin/partials/sections/class-wcgs-gallery.php:110
+#: admin/partials/sections/class-wcgs-gallery.php:354
+#: admin/partials/sections/class-wcgs-gallery.php:379
+#: admin/partials/sections/class-wcgs-gallery.php:411
+#: admin/partials/sections/class-wcgs-lightbox.php:35
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:42
+msgid "Slide Orientation"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:43
+msgid "Choose an slide orientation for gallery."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:45
+#: admin/partials/sections/class-wcgs-general.php:39
+msgid "Horizontal"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:46
+#: admin/partials/sections/class-wcgs-general.php:43
+msgid "Vertical"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:54
+msgid "Thumbnail Slide(s) To Scroll"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:55
+msgid "Set number of gallery thumbnails slide to scroll at a time."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:65
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:66
+msgid "Enable/Disable to make the gallery thumbnail infinite loop."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:76
+msgid "Sliding Effect"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:77
+msgid "Choose a sliding effect for gallery images."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:79
+#: admin/partials/sections/class-wcgs-lightbox.php:45
+msgid "Slide"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:80
+#: admin/partials/sections/class-wcgs-lightbox.php:46
+msgid "Fade (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:87
+msgid "Adaptive Height"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:88
+msgid "Enable/Disable adaptive height."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:97
+msgid "Accessibility"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:98
+msgid "Enable/Disable accessibility."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:107
+msgid "RTL Mode"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:108
+msgid "Enable/Disable the mode for RTL languages."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:116
+msgid "Slider Navigation & Pagination"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:121
+msgid "Slider Navigation"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:122
+msgid "Show/Hide slider navigation."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:123
+#: admin/partials/sections/class-wcgs-gallery.php:214
+#: admin/partials/sections/class-wcgs-gallery.php:255
+#: admin/partials/sections/class-wcgs-lightbox.php:146
+#: admin/partials/sections/class-wcgs-lightbox.php:165
+#: admin/partials/sections/class-wcgs-lightbox.php:178
+#: admin/partials/sections/class-wcgs-lightbox.php:190
+#: admin/partials/sections/class-wcgs-lightbox.php:211
+#: admin/partials/sections/class-wcgs-lightbox.php:222
+#: admin/partials/sections/class-wcgs-lightbox.php:234
+msgid "Show"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:124
+#: admin/partials/sections/class-wcgs-gallery.php:215
+#: admin/partials/sections/class-wcgs-gallery.php:256
+#: admin/partials/sections/class-wcgs-lightbox.php:147
+#: admin/partials/sections/class-wcgs-lightbox.php:166
+#: admin/partials/sections/class-wcgs-lightbox.php:179
+#: admin/partials/sections/class-wcgs-lightbox.php:191
+#: admin/partials/sections/class-wcgs-lightbox.php:212
+#: admin/partials/sections/class-wcgs-lightbox.php:223
+#: admin/partials/sections/class-wcgs-lightbox.php:235
+msgid "Hide"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:132
+msgid "Navigation Icon Style"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:133
+msgid "Choose a navigation icon for the gallery slider."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:173
+msgid "Navigation Icon Size"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:174
+msgid "Set navigation icon size."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:181
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:182
+msgid "Set navigation icon and background colors."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:184
+#: admin/partials/sections/class-wcgs-gallery.php:225
+#: admin/partials/sections/class-wcgs-gallery.php:318
+#: admin/partials/sections/class-wcgs-lightbox.php:128
+msgid "Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:185
+#: admin/partials/sections/class-wcgs-gallery.php:319
+#: admin/partials/sections/class-wcgs-lightbox.php:129
+msgid "Hover Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:186
+#: admin/partials/sections/class-wcgs-gallery.php:320
+#: admin/partials/sections/class-wcgs-lightbox.php:130
+msgid "Background"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:187
+#: admin/partials/sections/class-wcgs-gallery.php:321
+#: admin/partials/sections/class-wcgs-lightbox.php:131
+msgid "Hover Background"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:200
+msgid "Navigation Visibility"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:201
+msgid "Set slider navigation visibility."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:203
+#: admin/partials/sections/class-wcgs-gallery.php:240
+#: admin/partials/sections/class-wcgs-gallery.php:337
+msgid "Always"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:204
+#: admin/partials/sections/class-wcgs-gallery.php:241
+#: admin/partials/sections/class-wcgs-gallery.php:338
+msgid "On hover"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:212
+msgid "Slider Pagination"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:213
+msgid "Show/Hide slider pagination bullet."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:222
+msgid "Pagination Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:223
+msgid "Set slider pagination bullet color."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:226
+msgid "Active Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:237
+msgid "Pagination Visibility"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:238
+msgid "Set slider pagination visibility."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:248
+#: admin/partials/sections/class-wcgs-gallery.php:253
+msgid "Thumbnails Navigation"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:254
+msgid "Check to show gallery thumbnails navigation arrow."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:265
+msgid "Thumbnail Navigation Icon"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:266
+msgid "Set thumbnail navigation icon."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:307
+msgid "Thumbnail Navigation Icon Size"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:308
+msgid "Set thumbnail navigation icon size."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:315
+msgid "Thumbnail Navigation Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:316
+msgid "Set thumbnail navigation colors."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:334
+msgid "Thumbnails Navigation Visibility"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:335
+msgid "Set thumbnails navigation visibility."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:346
+msgid "Product Image"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:351
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:352
+msgid "Enable/Disable product image zoom."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:362
+msgid "Zoom Effect"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:363
+msgid "Set image zoom effect."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:364
+msgid ""
+"Available in <a href=\"https://shapedplugin.com/plugin/woocommerce-gallery-"
+"slider-pro/?ref=143\" target=\"_blank\"><strong>Pro!</strong></a>"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:376
+msgid "Enable Zoom for Mobile Devices"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:377
+msgid "Enable/Disable image zoom for mobile devices."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:387
+msgid "Image Mode"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:388
+msgid "Select a mode for product image."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:390
+msgid "Normal"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:391
+msgid "Grayscale(Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:392
+msgid "Grayscale on hover(Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:393
+msgid "Grayscale with active normal(Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:394
+msgid "Active grayscale with normal(Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:401
+msgid "Image Size"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:402
+msgid "Set a size for product image."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:408
+msgid "Preloader"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-gallery.php:409
+msgid "Preloader will show when variation changes."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:27
+msgid "General"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:33
+msgid "Gallery Layout"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:34
+msgid "Choose a layout for gallery."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:48
+msgid "Hide Thumbnails"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:58
+msgid "Thumbnails Position"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:59
+msgid "Select a position for thumbnails."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:62
+msgid "Bottom"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:65
+msgid "Top"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:80
+msgid "Thumbnails Item To Show"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:81
+msgid "Set a number of thumbnails item to show."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:88
+msgid "Thumbnails Space"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:89
+msgid "Set a space between thumbnails."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:97
+msgid "Border"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:98
+msgid "Set border for thumbnail."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:113
+msgid "Thumbnails Size"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:114
+msgid "Select size for thumbnails."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:121
+msgid "Gallery Width"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:122
+msgid "Set gallery width for large devices in %. Default value is 50%."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:132
+msgid "Responsive Gallery Width"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:133
+msgid "Set gallery responsive width in px. Default unit is px."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:145
+msgid "Gallery Bottom Gap"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:146
+msgid "Set gallery slider width in px. Default value is 30px."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:154
+msgid "Gallery Image Source"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:155
+msgid "Set gallery image source."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:157
+msgid "All images attached to this product"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:158
+msgid "Only images uploaded to the product gallery"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:165
+msgid "Include Feature Image"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:166
+msgid "Check to include feature image in gallery."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:169
+msgid "To Default Gallery"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-general.php:170
+msgid "To Variation Gallery"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-help.php:23
+msgid "Get Help"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-license.php:30
+msgid "License"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:27
+msgid "Lightbox"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:32
+msgid "Enable Lightbox"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:33
+msgid "Enable/Disable lightbox."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:42
+msgid "Lightbox Sliding Effect"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:43
+msgid "Select lightbox sliding effect."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:47
+msgid "Rotate (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:48
+msgid "Circular (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:49
+msgid "Tube (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:57
+msgid "Lightbox Icon Display Position"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:58
+msgid "Select lightbox icon position on the slider."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:60
+msgid "Top Right"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:61
+msgid "Top Left (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:62
+msgid "Bottom Right (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:63
+msgid "Bottom Left (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:64
+msgid "Middle (Pro)"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:74
+msgid "Lightbox Icon Style"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:75
+msgid "Choose a lightbox icon style."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:116
+msgid "Lightbox Icon Size"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:117
+msgid "Set lightbox icon size."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:125
+msgid "Lightbox Icon Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:126
+msgid "Set lightbox icon colors."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:144
+msgid "Lightbox Caption"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:145
+msgid "Show caption in lightbox."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:155
+msgid "Caption Color"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:156
+msgid "Change caption color."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:163
+msgid "Image Counter"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:164
+msgid "Show lightbox image counter."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:176
+msgid "Slideshow Play Button"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:177
+msgid "Show/Hide start slideshow play button."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:188
+msgid "Thumbnails Side Gallery"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:189
+msgid "Show/Hide thumbnails side gallery button  ."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:200
+msgid "Thumbnails Side Gallery Visibility"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:201
+msgid "Check to show thumbnails right side gallery (Pro)."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:209
+msgid "Social Share Button"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:210
+msgid "Show/Hide social share button."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:220
+msgid "Full Screen Button"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:221
+msgid "Show/Hide image full screen button."
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:232
+msgid "Download Button"
+msgstr ""
+
+#: admin/partials/sections/class-wcgs-lightbox.php:233
+msgid "Show/Hide product gallery image download button."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:321
+msgid "Error while saving the changes."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:407
+msgid "Settings successfully imported."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:419
+#: admin/partials/shapedplugin-framework/classes/options.class.php:439
+msgid "Default settings restored."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:505
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:749
+msgid "show all options"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:751
+msgid "Search option(s)"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:754
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:754
+#: admin/partials/shapedplugin-framework/classes/options.class.php:869
+msgid "Saving..."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:755
+msgid "Reset Tab"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:755
+#: admin/partials/shapedplugin-framework/classes/options.class.php:870
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:846
+msgid "No option provided by developer."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:869
+msgid "Save"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:870
+msgid "Reset Section"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:871
+msgid "Reset All"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/options.class.php:871
+msgid "Are you sure to reset all options?"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:348
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:349
+msgid "Restoring options."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:350
+msgid "Importing options."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:398
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:462
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/classes/setup.class.php:465
+msgid "This type is not found!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:52
+msgid "top"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:53
+msgid "right"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:54
+msgid "bottom"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:55
+msgid "left"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:56
+msgid "all"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:81
+msgid "Solid"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:82
+msgid "Dashed"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:83
+msgid "Dotted"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:84
+msgid "Double"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:85
+msgid "Inset"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:86
+msgid "Outset"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:87
+msgid "Groove"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:88
+msgid "ridge"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/border/border.php:89
+msgid "None"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/checkbox/checkbox.php:87
+#: admin/partials/shapedplugin-framework/fields/radio/radio.php:86
+#: admin/partials/shapedplugin-framework/fields/select/select.php:101
+msgid "No data provided for this option type."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/dimensions/dimensions.php:49
+msgid "width"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/dimensions/dimensions.php:50
+msgid "height"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/image_sizes/image_sizes.php:80
+msgid "Original uploaded image"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/image_sizes/image_sizes.php:81
+msgid "Set custom size(Pro)"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/image_sizes/image_sizes.php:126
+msgid "No image sizes found."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/sp_help_free/sp_help_free.php:37
+msgid "Welcome to WooCommerce Gallery Slider!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/sp_help_free/sp_help_free.php:40
+msgid ""
+"Get introduced to WooCommerce Gallery Slider plugin by watching our "
+"\"Getting Started\" video tutorial series. This video will help you get "
+"started with the plugin."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/switcher/switcher.php:45
+msgid "On"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/fields/switcher/switcher.php:46
+msgid "Off"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/functions/actions.php:30
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/functions/validate.php:25
+#: admin/partials/shapedplugin-framework/functions/validate.php:97
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/functions/validate.php:41
+#: admin/partials/shapedplugin-framework/functions/validate.php:120
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/functions/validate.php:59
+#: admin/partials/shapedplugin-framework/functions/validate.php:142
+msgid "Error! This field is required!"
+msgstr ""
+
+#: admin/partials/shapedplugin-framework/functions/validate.php:77
+#: admin/partials/shapedplugin-framework/functions/validate.php:164
+msgid "Please write a valid url!"
+msgstr ""
+
+#: includes/class-woo-gallery-slider.php:88
+msgid "Settings"
+msgstr ""
+
+#: includes/class-woo-gallery-slider.php:92
+msgid "Go Premium!"
+msgstr ""

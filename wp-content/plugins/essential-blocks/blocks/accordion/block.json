@@ -1,0 +1,11 @@
+{
+  "title": "Accordion block",
+  "apiVersion": 2,
+  "name": "essential-blocks/accordion",
+  "category": "essential-blocks",
+  "description": "Display your FAQs & improve user experience with Accordion/Toggle block",
+  "textdomain": "essential-blocks",
+  "supports": {
+    "align": ["wide", "full"]
+  }
+}

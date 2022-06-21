@@ -1,0 +1,11 @@
+{
+  "title": "Team Members",
+  "name": "essential-blocks/team-member",
+  "description": "Present your team members beautifully & gain instant credibility",
+  "category": "essential-blocks",
+  "apiVersion": 2,
+  "textdomain": "essential-blocks",
+  "supports": {
+    "align": ["wide", "full"]
+  }
+}
