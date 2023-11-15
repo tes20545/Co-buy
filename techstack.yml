@@ -1,0 +1,454 @@
+repo_name: tes20545/Co-buy
+report_id: 729ef363ba3418aa3b5faf6fdeab5b89
+repo_type: Public
+timestamp: '2023-11-15T02:48:25+00:00'
+requested_by: tes20545
+provider: github
+branch: main
+detected_tools_count: 38
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: database_master/co_buy.sql
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/google/auth/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source: wp-content/plugins/jetpack/vendor/nojimage/twitter-text-php/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Twig
+  description: A flexible, fast, and secure template engine
+  website_url: https://twig.symfony.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source: wp-content/plugins/unlimited-elements-for-elementor/vendor/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: CouchDB
+  description: HTTP + JSON document database with Map Reduce views and peer-based
+    replication
+  website_url: http://couchdb.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1042/default_86434292d1c55e5f3a3256ca2bc6e2ea62eaca83.jpg
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.15.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-my-jetpack/babel.config.js
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Composer
+  description: Dependency Manager for PHP
+  website_url: https://getcomposer.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/1688/New_Project__65_.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Graylog
+  description: Open source log management that actually works
+  website_url: https://www.graylog.org/
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/4392/_HU28D42.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: PHPStan
+  description: PHP Static Analysis Tool - discover bugs in your code without running
+    it!
+  website_url: https://github.com/phpstan/phpstan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/8333/phpst.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: '4.8'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: wp-content/plugins/google-listings-and-ads/vendor/firebase/php-jwt/composer.json
+  detection_source: wp-content/themes/astra/inc/lib/astra-notices/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Scrutinizer
+  description: Continuous inspection platform - improve code quality and find bugs
+    before they hit production
+  website_url: https://scrutinizer-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2017/a5b5e5e6414e2c07bef76c9d2a29cd46.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/league/container/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/paragonie/constant_time_encoding/.travis.yml
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.52.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-my-jetpack/webpack.config.js
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: phing
+  description: A PHP project build system or build tool based on ​Apache Ant
+  website_url: https://www.phing.info/
+  version: '2.7'
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/3215/d.png
+  detection_source_url: wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: ElasticHosts Cloud Servers
+  description: Cloud hosting that's easy to use when you need scalable, flexible VPS
+    capacity on demand
+  website_url: https://www.elastichosts.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Cloud Hosting
+  image_url: https://img.stackshare.io/service/21/Br4cEBV6.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source: wp-content/plugins/jetpack/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: Monolog
+  website_url: https://github.com/Seldaek/monolog
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9170/183678.jpeg
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: SwiftMailer
+  description: Allows you to keep up with Symfony news in a twitter-like way.
+  website_url: http://swiftmailer.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1815/logosf_positif_03_icon_normal.png
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: WordPress
+  description: A semantic personal publishing platform with a focus on aesthetics,
+    web standards, and usability.
+  website_url: http://wordpress.org
+  open_source: true
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Self-Hosted Blogging / CMS
+  image_url: https://img.stackshare.io/service/250/logo.png
+  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: gulp-clean
+  description: A gulp plugin for removing files and folders
+  package_url: https://www.npmjs.com/gulp-clean
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16218/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
+- name: react-select
+  description: A Select control built with and for ReactJS
+  package_url: https://www.npmjs.com/react-select
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
+  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  last_updated_by: tes20545
+  last_updated_on: 2022-06-21 17:49:22.000000000 Z
