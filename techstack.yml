@@ -1,7 +1,8 @@
 repo_name: tes20545/Co-buy
 report_id: 729ef363ba3418aa3b5faf6fdeab5b89
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T02:48:25+00:00'
+timestamp: '2024-01-05T08:43:31+00:00'
 requested_by: tes20545
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -53,6 +58,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/database_master/co_buy.sql
   detection_source: database_master/co_buy.sql
 - name: Smarty
   description: Template engine for PHP
@@ -62,6 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -72,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: Guzzle
   description: PHP HTTP client that makes it easy to send HTTP requests and trivial
@@ -83,7 +91,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/2350/638632.png
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/google/auth/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/google/apiclient/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/google/apiclient/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: React
@@ -96,8 +105,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
-  detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-identity-crisis/src/_inc/admin.jsx
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Symfony
@@ -109,7 +118,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
-  detection_source: wp-content/plugins/jetpack/vendor/nojimage/twitter-text-php/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/symfony/validator/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/symfony/validator/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Twig
@@ -120,6 +130,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/unlimited-elements-for-elementor/vendor/composer.json
   detection_source: wp-content/plugins/unlimited-elements-for-elementor/vendor/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -133,6 +144,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1042/default_86434292d1c55e5f3a3256ca2bc6e2ea62eaca83.jpg
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -144,7 +156,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Redis
@@ -156,6 +169,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -169,8 +183,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
-  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-my-jetpack/babel.config.js
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection-ui/babel.config.js
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Composer
@@ -182,6 +196,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/1688/New_Project__65_.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -194,6 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -205,6 +221,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tes20545/Co-buy
   detection_source: Repo Metadata
 - name: Graylog
   description: Open source log management that actually works
@@ -214,6 +231,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/4392/_HU28D42.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -225,6 +243,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -238,7 +257,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/8333/phpst.png
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/guzzlehttp/guzzle/vendor-bin/phpstan/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/guzzlehttp/guzzle/vendor-bin/phpstan/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: PHPUnit
@@ -251,8 +271,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
-  detection_source_url: wp-content/plugins/google-listings-and-ads/vendor/firebase/php-jwt/composer.json
-  detection_source: wp-content/themes/astra/inc/lib/astra-notices/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/firebase/php-jwt/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/firebase/php-jwt/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: PhpSpec
@@ -263,7 +283,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/Dockerfile
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Scrutinizer
@@ -275,6 +296,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2017/a5b5e5e6414e2c07bef76c9d2a29cd46.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/league/container/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/league/container/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -287,7 +309,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/paragonie/constant_time_encoding/.travis.yml
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/google/common-protos/.travis.yml
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/google/common-protos/.travis.yml
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: Webpack
@@ -300,8 +323,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
-  detection_source: wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-my-jetpack/webpack.config.js
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source: wp-content/plugins/astra-sites/webpack.config.js
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: gulp
@@ -314,7 +337,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -326,6 +349,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -339,7 +363,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/3215/d.png
-  detection_source_url: wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -352,6 +376,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/21/Br4cEBV6.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -364,6 +389,7 @@ tools:
   category: Communications
   sub_category: Email API
   image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/jetpack/composer.json
   detection_source: wp-content/plugins/jetpack/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -372,7 +398,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9170/183678.jpeg
-  detection_source: wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/composer.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/google/apiclient/composer.json
+  detection_source: wp-content/plugins/google-listings-and-ads/vendor/google/apiclient/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
 - name: SwiftMailer
@@ -381,6 +408,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1815/logosf_positif_03_icon_normal.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   detection_source: wp-content/plugins/google-listings-and-ads/vendor/monolog/monolog/composer.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -393,6 +421,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Self-Hosted Blogging / CMS
   image_url: https://img.stackshare.io/service/250/logo.png
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -406,7 +435,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16218/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -420,7 +449,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   detection_source: wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -434,7 +463,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
   detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
@@ -448,7 +477,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
-  detection_source_url: wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
+  detection_source_url: https://github.com/tes20545/Co-buy/blob/main/wp-content/themes/astra/inc/metabox/extend-metabox/package-lock.json
   detection_source: wp-content/themes/astra/inc/metabox/extend-metabox/package.json
   last_updated_by: tes20545
   last_updated_on: 2022-06-21 17:49:22.000000000 Z
