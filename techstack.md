@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 tes20545/Co-buy is built on the following main stack:
+
 - [ElasticHosts Cloud Servers](https://www.elastichosts.com) – Cloud Hosting
 - [Context.IO](http://context.io) – Email API
 - [WordPress](http://wordpress.org) – Self-Hosted Blogging / CMS
@@ -33,11 +34,13 @@ tes20545/Co-buy is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 tes20545/Co-buy is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/21/Br4cEBV6.png' alt='ElasticHosts Cloud Servers'/> [ElasticHosts Cloud Servers](https://www.elastichosts.com) – Cloud Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/240/mPMj_ee5.png' alt='Context.IO'/> [Context.IO](http://context.io) – Email API
 - <img width='25' height='25' src='https://img.stackshare.io/service/250/logo.png' alt='WordPress'/> [WordPress](http://wordpress.org) – Self-Hosted Blogging / CMS
@@ -69,14 +72,15 @@ tes20545/Co-buy is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tes20545/Co-buy](https://github.com/tes20545/Co-buy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|11/15/23 <br/>Report generated|
+|38<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -399,4 +403,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
